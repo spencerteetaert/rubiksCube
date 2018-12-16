@@ -1,0 +1,10 @@
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.Form1.resources
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.Properties.Resources.resources
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.csproj.GenerateResource.Cache
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.csproj.CoreCompileInputs.cache
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\bin\Debug\Rubiks.exe.config
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\bin\Debug\Rubiks.exe
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\bin\Debug\Rubiks.pdb
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.csprojResolveAssemblyReference.cache
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.exe
+G:\My Drive\Course Work\ICS40S\Rubiks\Rubiks\obj\Debug\Rubiks.pdb
